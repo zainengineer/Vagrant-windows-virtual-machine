@@ -1,3 +1,5 @@
-Originally copied from https://gist.github.com/andreptb/57e388df5e881937e62a
+In Windows shared folder is simply in 
 
-* Make sure your vagrant is upgradeded otherwise winrm will throw error
+\\VBOXSVR\vagrant
+
+simply copy paste it in Files Explorer
